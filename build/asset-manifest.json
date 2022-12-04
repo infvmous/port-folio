@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1687ec17.css",
+    "main.js": "/static/js/main.a2267116.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Resume.pdf": "/static/media/Resume.1f5db35e0c465a876fb2.pdf",
+    "static/media/logo.png": "/static/media/logo.13f1e989da1669e767d1.png",
+    "static/media/github2.svg": "/static/media/github2.01c5c252cf67fdbb31d3515b47da6e27.svg",
+    "static/media/link.svg": "/static/media/link.4c07548db2495c9c2cf803f37cee7a3b.svg",
+    "static/media/github.svg": "/static/media/github.a61b960f2ce17e7b773b7e1013673b9f.svg",
+    "static/media/react-native.svg": "/static/media/react-native.a060cbe85e50deda1d61452cee9de5b2.svg",
+    "static/media/gmail-logo.svg": "/static/media/gmail-logo.2c70fa80e7595c831171e23d3d580539.svg",
+    "static/media/javascript.svg": "/static/media/javascript.081325c6f229605dce15142ddd948d6d.svg",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.91aad92a015faa64813b5f46723153a8.svg",
+    "index.html": "/index.html",
+    "static/media/css3.svg": "/static/media/css3.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
+    "static/media/linkedn2.svg": "/static/media/linkedn2.3a4c2463c0164986ddfc1eaf5e1e465e.svg",
+    "static/media/html-5.svg": "/static/media/html-5.c1bb84e022ca9d76984d4b943bd678fd.svg",
+    "main.1687ec17.css.map": "/static/css/main.1687ec17.css.map",
+    "main.a2267116.js.map": "/static/js/main.a2267116.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1687ec17.css",
+    "static/js/main.a2267116.js"
+  ]
+}
